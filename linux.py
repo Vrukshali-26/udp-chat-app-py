@@ -17,7 +17,7 @@ import threading
 s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 
 # System IP
-ip = "192.168.43.128"
+ip = " IP "
 port = 1111
 
 # Reciever IP
